@@ -1,0 +1,11 @@
+# MPLAB build outputs (regenerated on build)
+*.O
+*.cof
+*.lst
+*.map
+*.err
+*.mcs
+# per-machine workspace files
+*.workspace
+*.mcw
+Project Backups/
