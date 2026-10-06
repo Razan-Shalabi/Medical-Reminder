@@ -1,7 +1,5 @@
 # Simple Medicine Reminder System
 
-Project #4 - ENCS4330 Real-Time Applications & Embedded Systems, Birzeit University.
-
 A medicine reminder built on one **PIC16F877A**, written in PIC assembly (MPLAB) and simulated in Proteus. The system keeps a software clock and manages three medicines, each with one daily reminder time.
 
 > Educational simulation only. It must not be used as a real medical device.
